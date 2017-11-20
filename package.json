@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjitha15/Weather_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjitha15/Weather_App/issues"
+  },
+  "homepage": "https://github.com/ranjitha15/Weather_App#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  }
+}
